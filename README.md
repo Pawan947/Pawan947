@@ -9,9 +9,13 @@
 <a href="https://profile-public.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=367BF0" alt="Portfolio">
 </a>
+
+
 <a href="mailto:pawanyadav3000@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=367BF0" alt="Email">
 </a>
+
+
 <a href="https://linkedin.com/in/">
   <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=367BF0" alt="LinkedIn">
 </a>

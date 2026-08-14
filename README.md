@@ -4,9 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=2000&color=367BF0&center=true&vCenter=true&width=550&height=35&lines=%5B+INITIALIZING+SECURE+CONNECTION...+%5D;%5B+ACCESS+GRANTED+%5D+Welcome+to+my+workspace." alt="Typing SVG">
-</a>
+
 
 <br>
 

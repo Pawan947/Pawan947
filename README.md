@@ -27,7 +27,7 @@
 
 ---
 
-## `01 // IDENTITY`
+
 
 <table>
 <tr>
@@ -40,4 +40,4 @@ I am a Computer Science student and developer focused on **cybersecurity, automa
 I enjoy understanding how systems break, finding weaknesses in authorized environments, and engineering solutions that are resilient by design.
 
 ```text
-CURIOUSITY → RESEARCH → EXPERIMENT → BUILD → SECURE
+

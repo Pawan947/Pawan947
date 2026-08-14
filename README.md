@@ -146,30 +146,7 @@ I break systems to understand them, then rebuild them stronger. Operating at the
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============================================================== -->
-<!--                     3D CONTRIBUTION MAP                        -->
-<!-- ============================================================== -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a2e&height=45&text=%20%20CONTRIBUTION%20MAP%20%20&fontSize=18&fontColor=367BF0&stroke=367BF0&strokeWidth=1.5" width="300">
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pawan947/Pawan947/main/profile-3d-contrib/profile-night-rainbow.svg">
-    <img src="https://raw.githubusercontent.com/Pawan947/Pawan947/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" alt="3D Contribution Map">
-  </picture>
-</div>
-
-<br>
-
-> Set up via [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action to generate your 3D contribution calendar automatically.
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ============================================================== -->
 <!--                       GITHUB ANALYTICS                         -->

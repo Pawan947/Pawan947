@@ -156,7 +156,7 @@ I operate at the intersection of **offensive security** and **artificial intelli
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Pawan947&show_icons=true&hide_border=true&bg_color=0d1117&title_color=367BF0&icon_color=367BF0&text_color=8b8fa3&count_private=true&ring_color=367BF0" alt="Stats">
 
 
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=Pawan947&show_icons=true&hide_border=true&bg_color=0d1117&title_color=367BF0&icon_color=367BF0&text_color=8b8fa3&count_private=true&ring_color=367BF0" alt="Stats">
 <br>
 
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pawan947&bg_color=0D1117&color=367BF0&line=367BF0&point=e63946&area_color=367BF015&area=true&hide_border=true&custom_title=" alt="Activity">

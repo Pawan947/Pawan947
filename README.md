@@ -6,11 +6,11 @@
 
 <br><br>
 
-<a href="#projects">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore projects">
+<a href="https://profile-public.vercel.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore projects">
 </a>
 <a href="mailto:pawanyadav3000@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT_ME-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me">
+  <img src="https://img.shields.io/badge/CONTACT_ME-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me">
 </a>
 
 </div>
@@ -27,8 +27,6 @@
 
 ---
 
-
-
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -39,5 +37,6 @@ I am a Computer Science student and developer focused on **cybersecurity, automa
 
 I enjoy understanding how systems break, finding weaknesses in authorized environments, and engineering solutions that are resilient by design.
 
-
-
+</td>
+</tr>
+</table>

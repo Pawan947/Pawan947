@@ -6,8 +6,6 @@
 
 
 
-<br>
-
 <a href="https://profile-public.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=367BF0" alt="Portfolio">
 </a>

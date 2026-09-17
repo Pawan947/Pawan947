@@ -1,25 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Pawan+%F0%9F%91%8B;Full-Stack+Developer;Building+Cool+Things+With+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Pawan%3A+Digital+Chaos+Engine;Compiling+caffeine+into+recursive+loops;git+push+--force+survivor;Building+things+that+terrify+compilers" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Pawan947&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Pawan947?label=Followers&style=for-the-badge&color=blueviolet" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Pawan947?label=ACCOMPLICES&style=for-the-badge&color=blueviolet" alt="Followers"/>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## SYSTEM OVERRIDE // ABOUT
 
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[skill / tech]**
-- 💬 Ask me about **[topics you're comfortable with]**
-- 📫 How to reach me: **[your email or contact link]**
-- ⚡ Fun fact: **[something about you]**
+- OPERATIONAL VECTOR: Weaponizing **[project name]** into production-ready madness.
+- BRAIN BUFFER OVERFLOW: Force-feeding **[skill / tech]** directly into biological RAM.
+- INTERROGATE ME ABOUT: Over-engineering, architecture anti-patterns, and dark Python magic.
+- TRANSMISSION CHANNEL: **[your email or contact link]**
+- ANOMALY DETECTED: I debug by glaring aggressively at stack traces until the bugs fix themselves out of sheer intimidation.
 
 <br/>
 
-## 🛠️ Tech Stack
+## ARSENAL OF DESTRUCTION
 
 <div align="center">
 
@@ -33,11 +33,11 @@
 
 </div>
 
-> ✏️ Detected from your public repos (HTML, Jupyter Notebook). Swap or add badges at [shields.io/badges](https://shields.io/badges) to match your real stack.
+> Zero guarantees. Undefined behavior accepted as a feature. Do not run in production without backup fire extinguishers.
 
 <br/>
 
-## 📊 GitHub Stats
+## TELEMETRY AND DAMAGE METRICS
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-## 📈 Contribution Graph
+## PROOF OF VOLATILITY
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 <br/>
 
-## 🏆 Trophies
+## DIGITAL CONQUESTS
 
 <div align="center">
 
@@ -74,20 +74,20 @@
 
 <br/>
 
-## 📌 Featured Projects
+## THE EXPERIMENT LAB
 
-| Project | Description | Language |
+| Artifact | Dossier | Engine |
 |---|---|---|
-| [Project_nb](https://github.com/Pawan947/Project_nb) | *add a one-line description* | – |
-| [project_details](https://github.com/Pawan947/project_details) | *add a one-line description* | – |
-| [whatsapp-manager-pro](https://github.com/Pawan947/whatsapp-manager-pro) | *add a one-line description* | HTML |
-| [Event_search](https://github.com/Pawan947/Event_search) | *add a one-line description* | Jupyter Notebook |
-| [Sentinel](https://github.com/Pawan947/Sentinel) | *add a one-line description* | HTML |
+| [whatsapp-manager-pro](https://github.com/Pawan947/whatsapp-manager-pro) | Automating communication protocols because human interaction is computationally inefficient. | HTML |
+| [Sentinel](https://github.com/Pawan947/Sentinel) | Paranoid automated watchdog keeping vulnerable systems alive through duct tape and logic. | HTML |
+| [Event_search](https://github.com/Pawan947/Event_search) | Sifting through massive event streams using weaponized notebook computations. | Jupyter Notebook |
+| [Project_nb](https://github.com/Pawan947/Project_nb) | Experimental code fragments too unstable to run outside containment. | Python / Notebook |
+| [project_details](https://github.com/Pawan947/project_details) | Redacted blueprints for unreleased mechanisms. Clearance required. | System |
 
 <br/>
 
 <div align="center">
 
-⭐️ From [Pawan947](https://github.com/Pawan947) — thanks for stopping by!
+Transmitted from the terminal of Pawan947. Run before it segfaults.
 
 </div>
